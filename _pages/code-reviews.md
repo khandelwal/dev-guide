@@ -3,8 +3,8 @@ layout: page
 title: "Code Reviews"
 ---
 
-Each pull request should be code reviewed by someone on your team who didn't
-contribute code to that request. 
+Each pull request should be code reviewed by someone on your team who is not
+the author. 
 
 
 # Code review checklist
