@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Code Reviews"
+title: "Code reviews"
 ---
 
 Each pull request should be code reviewed by someone on your team who is not

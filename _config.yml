@@ -34,12 +34,18 @@ navigation:
 - text: Home
   url: ./
   internal: true
+- text: Product Roadmap 
+  url: road-map/
+  internal: true
 - text: Code Reviews 
   url: code-reviews/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
+- text: Before You Ship 
+  url: before-you-ship/
+  internal: true
+# - text: DOCter Repo
+#  url: https://github.com/cfpb/DOCter
+#  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
