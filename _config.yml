@@ -17,7 +17,7 @@ subtitle: A project software development guide
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: 'http://skhandelwal.com/dev-guide/'
+baseurl: 'http://skhandelwal.com/dev-guide'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -33,9 +33,6 @@ logoalt:
 navigation:
 - text: Home
   url: ./
-  internal: true
-- text: Example Page
-  url: example_page/
   internal: true
 - text: Code Reviews 
   url: code-reviews/
