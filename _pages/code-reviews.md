@@ -3,12 +3,22 @@ layout: page
 title: "Code Reviews"
 ---
 
+Each pull request should be code reviewed by someone on your team who didn't
+contribute code to that request. 
+
+
 # Code review checklist
+
+## Solution
+
+- [ ] Does the pull request reference the user story or bug?
+- [ ] Does the code solve the problem? 
 
 ## Readability
 
-- [ ]  Is the code commented?
-- [ ]  Could the code be re-written so that the comments are not necessary?
+- [ ] Is the code commented?
+- [ ] Could the code be re-written so that the comments are not necessary?
+- [ ] Are the error messages informative?
 
 ## Testing
 
